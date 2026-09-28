@@ -1,3 +1,7 @@
+Data Model
+<img width="1508" height="797" alt="Screenshot 2026-09-28 093254" src="https://github.com/user-attachments/assets/ab5034cf-84f5-43c1-951f-20d89ca67bcc" />
+
+
 Day-to-Day Analysis
 <img width="896" height="772" alt="Screenshot 2026-09-24 164118" src="https://github.com/user-attachments/assets/1276e892-f800-4fab-94c4-396c01d14335" />
 
